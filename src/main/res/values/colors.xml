@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_bg_top">#1E1E2E</color>
+    <color name="dark_bg_bottom">#121212</color>
+
+    <color name="dark_button">#2A2A3C</color>
+    <color name="dark_operator">#7C4DFF</color>
+    <color name="dark_text">#FFFFFF</color>
+</resources>
